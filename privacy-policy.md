@@ -51,6 +51,3 @@ If you have any questions or concerns about this Privacy Policy or the data Exce
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
 - **Support Server:** [Excel Community](https://discord.com/invite/yourInviteLink)
 
----
-
-This policy ensures that your bot complies with data privacy standards while making users aware of how their information is handled.

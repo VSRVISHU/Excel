@@ -49,5 +49,5 @@ The developer may terminate or suspend your access to Excel at any time, without
 If you have any questions or concerns regarding these Terms, please contact the developer at:
 
 - **Discord**: [Excel Owner Support](http://discord.com/users/870040788539678791)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [ExcelBot@naravirtual.in](ExcelBot@naravirtual.in)
 - **Support Server**: [Excel Community](https://discord.com/invite/ExcelBot)

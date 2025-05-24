@@ -47,7 +47,7 @@ This Privacy Policy may be updated periodically. Any changes will be posted here
 
 If you have any questions or concerns about this Privacy Policy or the data Excel collects, please contact us:
 
-- **Discord:** [Excel Support](http://discord.com/users/yourDiscordID)
+- **Discord:** [Excel Owner Support](http://discord.com/users/870040788539678791)
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **Support Server:** [Excel Community](https://discord.com/invite/yourInviteLink)
+- **Support Server:** [Excel Community](https://discord.com/invite/ExcelBot)
 
